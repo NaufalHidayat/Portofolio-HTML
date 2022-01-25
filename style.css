@@ -602,7 +602,7 @@ height: 170px;
   
 }
 
-/* --------------- Portofolio ----------------*/
+/* ----------------------------- Portofolio ------------------------------------*/
 
 .portofolio{
   width: 100%;
@@ -708,6 +708,9 @@ border: 5px solid #232329;
   position: absolute;
   top: 32%;
 }
+
+
+
 
 /*--------------------------------- About-------------------------------------- */
 .about {
@@ -977,7 +980,7 @@ height: 500px;
 
   .welcome .welcome-text .text2{
     font-size: 20px;
-    color: #2cee5d;
+    color: #FFD369;
   }
 
 
@@ -1020,7 +1023,7 @@ height: 500px;
     left: -7%;
   }
   .home .home-isi .box:hover{
-    height: 115px;
+    height: 110px;
   }
   .home .home-isi .box .content{
     right: -150px;
@@ -1091,7 +1094,7 @@ width: 350px;
 height: 250px;
 }
 .portofolio .card1 h4{
-  font-size: 10px;
+  font-size: 15px;
 }
 .portofolio .card1 h2{
   font-size: 20px;
@@ -1106,7 +1109,7 @@ height: 250px;
   height: 250px;
 }
 .portofolio .card2 h4{
-  font-size: 10px;
+  font-size: 15px;
 }
 .portofolio .card2 h2{
   font-size: 20px;
